@@ -1,0 +1,6 @@
+
+output:
+
+To achieve the desired results 
+
+	Run the RandomizedPrimeCheckDemo class in com.sravan.randomizer.demo class 
